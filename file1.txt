@@ -1,0 +1,8 @@
+.git
+file.txt
+First.java
+Second.java
+Third.java
+[Ljava.lang.String;@71c8becc
+/newFile.txt
+2/newFile.txt
